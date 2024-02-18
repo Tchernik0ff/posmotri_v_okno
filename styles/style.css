@@ -72,6 +72,7 @@ ol {
   line-height: 22px;
   letter-spacing: 0em;
   text-align: start;
+  padding-bottom: 6.5px;
 }
 
 .result__video-container {
@@ -94,7 +95,6 @@ fieldset {
 
 .search-form__textfield {
   min-width: 225px;
-  margin-top: 5px;
   border: 0;
   border-top: 1px solid rgb(255 255 255 / 0.7);
   border-bottom: 1px solid rgb(255 255 255 / 0.7);
@@ -126,7 +126,6 @@ fieldset {
 .search-form__checkbox-list {
   display: flex;
   gap: 15px;
-  padding-top: 6.5px;
 }
 
 .search-form__pseudo-checkbox {
